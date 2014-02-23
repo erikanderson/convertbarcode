@@ -148,6 +148,8 @@ GEM
     rb-fsevent (0.9.4)
     rb-inotify (0.9.3)
       ffi (>= 0.5.0)
+    rghost (0.9.3)
+    rghost_barcode (0.9)
     rspec (2.14.1)
       rspec-core (~> 2.14.0)
       rspec-expectations (~> 2.14.0)
@@ -231,6 +233,8 @@ DEPENDENCIES
   rb-fchange
   rb-fsevent
   rb-inotify
+  rghost
+  rghost_barcode
   rspec-rails
   sass-rails (~> 4.0.0)
   simple_form
